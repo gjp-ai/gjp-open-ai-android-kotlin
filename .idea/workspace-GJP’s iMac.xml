@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="404f3928-f4d8-404a-bea3-7b52fe677242" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLAUDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../CLAUDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/01-requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/01-requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/02-product-design.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/02-product-design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/03-technical-design.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/03-technical-design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/04-api-reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/04-api-reference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/05-coding-rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/05-coding-rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/06-implementation-plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/06-implementation-plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/07-ai-generation-harness.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/07-ai-generation-harness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/08-testing-strategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/08-testing-strategy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/09-backend-api-harness.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/09-backend-api-harness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/00-read-order.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/00-read-order.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/01-android-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/01-android-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/02-ios-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/02-ios-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/03-cross-project-sync.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/03-cross-project-sync.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/04-quality-gates.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/04-quality-gates.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/ai-harness/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/00-common.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/00-common.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/app-settings.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/app-settings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/articles.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/articles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/audios.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/audios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/files.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/files.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/images.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/images.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/logos.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/logos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/videos.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/videos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/api/websites.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/api/websites.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/backend-api/00-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/backend-api/00-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/backend-api/01-coding-rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/backend-api/01-coding-rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/backend-api/02-testing-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/backend-api/02-testing-quality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/backend-api/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/backend-api/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/00-project.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/00-project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/01-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/01-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/02-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/02-api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/03-ui-state-i18n.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/03-ui-state-i18n.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/04-testing-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/04-testing-quality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/05-android-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/05-android-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/06-ios-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/06-ios-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/coding-rules/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/00-decisions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/00-decisions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/01-foundation.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/01-foundation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/02-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/02-content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/03-polish-release.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/03-polish-release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/04-milestones.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/04-milestones.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/05-native-projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/05-native-projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/implementation-plan/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/product-design/00-principles.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/product-design/00-principles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/product-design/01-information-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/product-design/01-information-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/product-design/02-core-screens.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/product-design/02-core-screens.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/product-design/03-states-accessibility.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/product-design/03-states-accessibility.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/product-design/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/product-design/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/00-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/00-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/01-scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/01-scope.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/02-functional.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/02-functional.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/03-non-functional.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/03-non-functional.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/04-acceptance.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/04-acceptance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/05-open-questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/05-open-questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/requirements/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/requirements/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/00-stack.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/00-stack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/01-runtime-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/01-runtime-architecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/02-data-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/02-data-api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/03-media-i18n-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/03-media-i18n-theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/04-security-privacy.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/04-security-privacy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/05-android-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/05-android-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/06-ios-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/06-ios-native.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/technical-design/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/technical-design/_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/00-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/00-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/01-unit-tests.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/01-unit-tests.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/02-api-contract-tests.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/02-api-contract-tests.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/03-ui-automation.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/03-ui-automation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/04-android-testing.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/04-android-testing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/05-ios-testing.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/05-ios-testing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/06-ci-quality-gates.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/06-ci-quality-gates.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gjp-open-doc/testing/_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/../gjp-open-doc/testing/_template.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=/Users/gjpai/.android/avd/Pixel_10_Pro_XL.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.4.1-bin/arn2x92ynaizyzdaamcbpbhtj/gradle-9.4.1" javaHome="$APPLICATION_HOME_DIR$/jbr/Contents/Home" gradleVersion="9.4.1" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DRJmVWVHv21UPrBggrjgAGbNTb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gjpai/Library/CloudStorage/OneDrive-Personal/GJP-AI/Code/gjp/gjp-open/gjp-open-android-kotlin"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GJP-AI.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="404f3928-f4d8-404a-bea3-7b52fe677242" name="Changes" comment="" />
+      <created>1778239109842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778239109842</updated>
+    </task>
+    <servers />
+  </component>
+</project>
