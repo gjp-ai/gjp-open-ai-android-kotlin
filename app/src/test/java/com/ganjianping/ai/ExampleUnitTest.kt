@@ -11,7 +11,19 @@ import org.junit.Assert.*
  */
 class ExampleUnitTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun mediaUrlNormalizationDropsTransientQueryParameters() {
+        val normalized = normalizeMediaUrl("https://example.com/image.png?token=abc&keep=yes&v=2&sig=no")
+
+        assertEquals("https://example.com/image.png?keep=yes", normalized)
+    }
+
+    @Test
+    fun tagsAreParsedFromCommaSeparatedSettingsValues() {
+        assertEquals(listOf("AI", "Tools", "News"), "AI, Tools,News".tagList())
+    }
+
+    @Test
+    fun htmlIsStrippedForSearchText() {
+        assertEquals("Hello world & more", "<p>Hello&nbsp;<b>world</b> &amp; more</p>".stripHtml())
     }
 }
